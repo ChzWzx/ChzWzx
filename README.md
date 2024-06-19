@@ -1,16 +1,15 @@
 ## Hi there 👋
 
-<!--
-**ChzWzx/ChzWzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Carlos Henrique 
 
-Here are some ideas to get you started:
+Nasci dia 19/04/2006
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Nascido e criado em São Paulo
+
+No momento sou apenas estudante do 3 ano do ensino médio
+
+Não estou trabalhado
+
+Sou estudante do alura 
+
+gosto de fazer atvidades físicas e jogar jogos
